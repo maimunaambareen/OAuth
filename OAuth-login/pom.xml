@@ -8,11 +8,11 @@
         <version>3.0.6</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>dev.danvega</groupId>
-    <artifactId>social</artifactId>
+    <groupId>com.example</groupId>
+    <artifactId>OAuth-login</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>social</name>
-    <description>Demo project for Spring Boot</description>
+    <name>OAuth-login</name>
+    <description>Demo project for OAuth login</description>
     <properties>
         <java.version>17</java.version>
     </properties>
